@@ -11,3 +11,9 @@ I will try to implement the algorithms using `Golang`. If not, will upload `Pyth
   * Binary Search Tree (BST)
   * AVL Tree, Augmentation
   * Hash Table
+  * Randomization
+  * Amortized Analysis
+  * Graphs, BFS
+  * DFS
+  * Minimum Spanning Tree (MST)
+  * Disjoint Set
