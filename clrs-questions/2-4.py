@@ -1,5 +1,6 @@
 '''
-    part (d)
+    part (d):
+    Running time: O(nlog(n))
 '''
 
 def MergeSortWithInversion (A, p, r):
