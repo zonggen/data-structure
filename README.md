@@ -17,3 +17,26 @@ I will try to implement the algorithms using `Golang`. If not, will upload `Pyth
   * DFS
   * Minimum Spanning Tree (MST)
   * Disjoint Set
+
+## CLRS Questions:
+  |  Assignment  | CLRS |
+  | :----------: | :----: |
+  |     A1Q1     | 2-4  |
+  |     A1Q3     | 6.5-8  |
+  |     A1Q4     | 6.2  |
+  |     A1Q5     | 6-3  |
+  |     A2Q2     | Similar to Order-statistic Tree |
+  |     A2Q3     | 11.3-3  |
+  |     A2Q4     | 11.4-2  |
+  |     A2Q5     | 11-1  |
+  |     A2Q6     | 9-4  |
+  |     A3Q3     | 17.4-3  |
+  |     A3Q4     | 17-1  |
+  |     A3Q5     | 17-2  |
+  |     A3Q7     | BFS |
+  |     A4Q1     | 22.4-5  |
+  |     A4Q2     | 22-4  |
+  |     A4Q5     | 23.1-5  |
+  |     A4Q6     | 21.3-4  |
+  |     A4Q7     | 21-1  |
+  
