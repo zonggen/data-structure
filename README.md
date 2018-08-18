@@ -4,7 +4,7 @@ This repo will be used to upload the `data structures` and `algorithms` encouter
 
 *Note:* the textbook we are using is [[CLRS] Cormen, Leiserson, Rivest, Stein: Introduction to Algorithms (3rd ed).](http://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf)  
 
-I will try to implement the algorithms using `Golang`. If not, will upload `Python` implementation instead.
+~~I will try to implement the algorithms using `Golang`. If not,~~ will upload `Python` implementation instead.
 
 ## Table of contents
   * Priority Queue, Heap
