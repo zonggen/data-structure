@@ -17,6 +17,7 @@ I will try to implement the algorithms using `Golang`. If not, will upload `Pyth
   * DFS
   * Minimum Spanning Tree (MST)
   * Disjoint Set
+  * Lower Bounds
 
 ## CLRS Questions:
   |  Assignment  | CLRS |
